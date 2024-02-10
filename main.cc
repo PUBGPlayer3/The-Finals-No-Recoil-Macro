@@ -1,6 +1,6 @@
 
 # step 1
-step_1 = goto("link mentioned in readme file https://vimeo.com/911518220")
+step_1 = goto("link mentioned in readme file https://vimeo.com/911798188")
 
 # step 2
 step_2 = watch("video on the vimeo")
